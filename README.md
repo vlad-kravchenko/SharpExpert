@@ -1,2 +1,5 @@
-# SharpExpert
-Simple expert system for traveling
+Экспертная система для выбора места посещения в отпуске.
+
+Написана на WinForms с базой данных на Access.
+
+Писалось ещё в университете.
